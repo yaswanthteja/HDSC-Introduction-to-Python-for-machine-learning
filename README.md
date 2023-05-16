@@ -1,6 +1,5 @@
 # HDSC-Introduction-to-Python-for-machine-learning
 
- cleaning, wrangling, exploring, providing summary statistics and interesting visualizations on a public utility data containing millions of rows and tens of files in structured format.
 
 - [Introduction-to-Python-for-machine_learning](https://github.com/yaswanthteja/HDSC-Introduction-to-Python-for-machine-learning/blob/main/FoodBalanceSheets_E_Africa_NOFLAG.csv)
 
